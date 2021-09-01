@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3900826",
+      "name": "建筑",
+      "font_class": "jianzhu-yuanwenjian",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "14716131",
+      "name": "建筑",
+      "font_class": "jianzhu",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "16306577",
+      "name": "建筑",
+      "font_class": "ziyuan_5",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "22239978",
+      "name": "更  多",
+      "font_class": "gengduo",
+      "unicode": "e924",
+      "unicode_decimal": 59684
+    }
+  ]
+}
